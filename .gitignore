@@ -1,0 +1,15 @@
+## .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+## App data (created at runtime)
+data/
+
+## OS files
+.DS_Store
+Thumbs.db
